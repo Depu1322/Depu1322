@@ -11,4 +11,3 @@ Depu1322/Depu1322 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 control + shift + m
-Control + Shift + m
